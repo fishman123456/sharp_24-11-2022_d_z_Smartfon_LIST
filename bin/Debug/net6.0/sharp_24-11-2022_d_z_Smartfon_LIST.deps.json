@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "sharp_24-11-2022_d_z_Smartfon_LIST/1.0.0": {
+        "runtime": {
+          "sharp_24-11-2022_d_z_Smartfon_LIST.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sharp_24-11-2022_d_z_Smartfon_LIST/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

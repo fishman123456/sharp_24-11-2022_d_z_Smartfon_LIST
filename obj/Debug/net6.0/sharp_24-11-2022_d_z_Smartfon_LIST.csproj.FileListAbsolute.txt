@@ -1,0 +1,15 @@
+C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_24-11-2022_d_z_Smartfon_LIST\obj\Debug\net6.0\sharp_24-11-2022_d_z_Smartfon_LIST.csproj.AssemblyReference.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_24-11-2022_d_z_Smartfon_LIST\obj\Debug\net6.0\sharp_24-11-2022_d_z_Smartfon_LIST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_24-11-2022_d_z_Smartfon_LIST\obj\Debug\net6.0\sharp_24-11-2022_d_z_Smartfon_LIST.AssemblyInfoInputs.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_24-11-2022_d_z_Smartfon_LIST\obj\Debug\net6.0\sharp_24-11-2022_d_z_Smartfon_LIST.AssemblyInfo.cs
+C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_24-11-2022_d_z_Smartfon_LIST\obj\Debug\net6.0\sharp_24-11-2022_d_z_Smartfon_LIST.csproj.CoreCompileInputs.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_24-11-2022_d_z_Smartfon_LIST\bin\Debug\net6.0\sharp_24-11-2022_d_z_Smartfon_LIST.exe
+C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_24-11-2022_d_z_Smartfon_LIST\bin\Debug\net6.0\sharp_24-11-2022_d_z_Smartfon_LIST.deps.json
+C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_24-11-2022_d_z_Smartfon_LIST\bin\Debug\net6.0\sharp_24-11-2022_d_z_Smartfon_LIST.runtimeconfig.json
+C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_24-11-2022_d_z_Smartfon_LIST\bin\Debug\net6.0\sharp_24-11-2022_d_z_Smartfon_LIST.dll
+C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_24-11-2022_d_z_Smartfon_LIST\bin\Debug\net6.0\sharp_24-11-2022_d_z_Smartfon_LIST.pdb
+C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_24-11-2022_d_z_Smartfon_LIST\obj\Debug\net6.0\sharp_24-11-2022_d_z_Smartfon_LIST.dll
+C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_24-11-2022_d_z_Smartfon_LIST\obj\Debug\net6.0\refint\sharp_24-11-2022_d_z_Smartfon_LIST.dll
+C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_24-11-2022_d_z_Smartfon_LIST\obj\Debug\net6.0\sharp_24-11-2022_d_z_Smartfon_LIST.pdb
+C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_24-11-2022_d_z_Smartfon_LIST\obj\Debug\net6.0\sharp_24-11-2022_d_z_Smartfon_LIST.genruntimeconfig.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_24-11-2022_d_z_Smartfon_LIST\obj\Debug\net6.0\ref\sharp_24-11-2022_d_z_Smartfon_LIST.dll
